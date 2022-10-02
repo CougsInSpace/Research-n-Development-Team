@@ -1,2 +1,2 @@
-# Structures Team
-## Team Lead: James Hallstrom
+# Research & Development Team
+## Team Lead: Aukusitino (AJ) Ah-yek
