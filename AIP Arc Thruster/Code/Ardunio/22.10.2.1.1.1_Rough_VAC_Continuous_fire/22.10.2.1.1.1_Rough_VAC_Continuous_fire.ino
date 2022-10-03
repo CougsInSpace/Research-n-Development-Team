@@ -9,8 +9,7 @@
 //!!WARNING!!WARNING!!WARNING!!!!WARNING!!WARNING!!WARNING!!!!WARNING!!WARNING!!WARNING!!!!WARNING!!WARNING!!WARNING!!
 ////////////////////////////////////////////////////
 
-
-// I am okay useing this code and accept the consequences 
+I am okay useing this code and accept the consequences 
 
 
 int pulse = 14;
